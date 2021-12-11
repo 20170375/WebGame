@@ -1,6 +1,6 @@
 # <a href="https://github.com/20170375/WebGame" style="text-decoration: none">WebGame</a>
 
-## GOTO
+## Go to play
 + https://20170375.github.io/WebGame
 
 ## Examples
